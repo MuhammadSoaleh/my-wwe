@@ -1,0 +1,21 @@
+
+.maindiv{
+    /* border: 5px red ridge; */
+    height: 50px;
+}
+nav{
+    /* border: 5px yellow ridge; */
+    height: inherit;padding-left: 350px; ;
+}
+ol.olnav{ 
+    border: 5px purple ridge;
+    padding: 50px 100px ;
+    height: inherit;
+    /* float: left; */
+}
+li.linav{
+    /* border: 5px royalblue ridge; */
+color: white; float: left;margin-right: 150px;
+}
+a.nav{text-decoration: none;
+color: black;}
